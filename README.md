@@ -19,7 +19,7 @@ Focada em ajudar **pequenos negócios**, **empreendedores locais** e **profissio
 ## 🤝 Conecte-se Connosco
 
 [![Instagram](https://img.shields.io/badge/@inova.ware-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inova.ware/?utm_source=ig_web_button_share_sheet)  
-[![Email](https://img.shields.io/badge/contato@inovaware.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@inovaware.com)
+[![Email](https://img.shields.io/badge/contato@inovaware.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@inovaa.ware.com)
 
 ---
 
